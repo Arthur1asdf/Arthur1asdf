@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Arthur1asdf
-- idk lol
 - 📫 How to reach me - arthur1asdf@gmail.com
 
 
