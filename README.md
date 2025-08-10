@@ -1,5 +1,4 @@
-# About Me:
-My name is Arthur, and I am a Full-Stack developer at UCF. 
+ Full-Stack DEV at UCF. 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/huterrat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthteng) 
 
