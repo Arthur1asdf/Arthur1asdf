@@ -1,4 +1,4 @@
- Full-Stack Dev at UCF. Mostly working on private repos atm
+ Full-Stack Dev at UCF. If you don't see too many commits, it's cause I am mostly working on private repos at this time :factual~2: 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/huterrat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthteng) 
 
