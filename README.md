@@ -1,6 +1,7 @@
 **I do:**
 - Full-Stack Development  
-- Robot Vision, Computer Vision, Robotics  
+- Computer Vision
+- Robotics  
 - AI  
 - Data Scraping and Analysis
 
