@@ -1,6 +1,7 @@
-I do: <br>
+## I do: <br>
 Full-Stack Development <br>
-Robot Vision, Computer Vision, Robotics <br>
+Computer Vision<br>
+Robotics <br>
 AI <br>
 Data Scraping and Analysis
 
