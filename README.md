@@ -1,4 +1,5 @@
-## I do: <br>
+I do: <br>
+<br>
 Full-Stack Development <br>
 Computer Vision<br>
 Robotics <br>
