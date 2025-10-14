@@ -1,10 +1,9 @@
-I do: <br>
-<br>
-Full-Stack Development <br>
-Computer Vision<br>
-Robotics <br>
-AI <br>
-Data Scraping and Analysis
+**I do:**
+- Full-Stack Development  
+- Robot Vision, Computer Vision, Robotics  
+- AI  
+- Data Scraping and Analysis
+
 
 
 ## 🌐 Socials:
