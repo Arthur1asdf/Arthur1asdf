@@ -1,9 +1,5 @@
- Full-Stack Dev
- Robot Vision
- Computer Vision 
- Robotics
- AI
- Data Scraping and Analysis
+Mostly do Full-Stack Dev, but I also have experience in:   Robot Vision, Computer Vision, Robotics, AI, Data Scraping and Analysis
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/B3NwgYBceW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthteng) 
 
