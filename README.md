@@ -1,4 +1,4 @@
-# Welcome to my profile:
+# Hello I'm Arthur:
 CS@UCF
 
 A Full-stack Developer
