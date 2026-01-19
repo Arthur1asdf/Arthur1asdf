@@ -7,7 +7,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Arthur1asdf&theme=dracula&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Arthur1asdf&theme=dracula&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1asdf&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
