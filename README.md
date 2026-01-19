@@ -2,7 +2,6 @@
 
 
 ## Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/B3NwgYBceW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthteng)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/arthteng/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
@@ -11,8 +10,8 @@
   <img src="https://img.shields.io/badge/Discord-Chibo-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="https://www.adrianosor.io" target="_blank">
-  <img src="https://img.shields.io/badge/Website-adrianosor.io-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+<a href="https://arthurteng.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-arthurteng.dev-FF5722?style=for-the-badge&logo=chrome-browser&logoColor=white" />
 </a>
 </p>
 
