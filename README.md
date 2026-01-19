@@ -5,11 +5,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/B3NwgYBceW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthteng)
 
 <p align="left">
-<a href="https://linkedin.com/in/adrianosoriob" target="_blank">
+<a href="https://www.linkedin.com/in/arthteng/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:n13arthurteng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-n13arthurteng%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://discord.gg/B3NwgYBceW" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Arthur%20Teng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.adrianosor.io" target="_blank">
