@@ -1,5 +1,5 @@
 # Hey, I'm Arthur:
-
+Currently doing fullstack and webscraping
 
 ## Connect with me:
 Feel free to reach out to chat about anything! You might also find me around campus.
