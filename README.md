@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://arthurteng.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-arthurteng.dev-FF5722?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-arthurteng.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
 
