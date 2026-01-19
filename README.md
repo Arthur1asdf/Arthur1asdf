@@ -1,5 +1,6 @@
 <!-- # Hey, I'm Arthur:-->
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 ## Connect with me:
 Feel free to reach out to chat about anything! You might also find me around campus.
@@ -61,3 +62,4 @@ Feel free to reach out to chat about anything! You might also find me around cam
 ---
 [![](https://visitcount.itsvg.in/api?id=Arthur1asdf&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
