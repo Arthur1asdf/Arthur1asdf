@@ -8,8 +8,8 @@
 <a href="https://linkedin.com/in/adrianosoriob" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:contact@adrianosor.io">
-  <img src="https://img.shields.io/badge/Email-contact%40adrianosor.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:n13arthurteng@gmail.com">
+  <img src="https://img.shields.io/badge/Email-contact%40ArthurTeng-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.adrianosor.io" target="_blank">
