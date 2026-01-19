@@ -5,9 +5,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/B3NwgYBceW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthteng)
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arthteng/" target="_blank">
-  <img src="https://img.shields.io/badge/Arthur%20Teng-LinkedIn?logo=linkedin&style=for-the-badge&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/arthteng/" target="_blank">
+    <img src="https://img.shields.io/badge/Arthur%20Teng-LinkedIn?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
 
 <a href="https://discord.gg/B3NwgYBceW" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Chibo-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
