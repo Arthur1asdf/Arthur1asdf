@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:n13arthurteng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact%40ArthurTeng-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-n13arthurteng%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.adrianosor.io" target="_blank">
