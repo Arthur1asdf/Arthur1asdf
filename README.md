@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discord.gg/B3NwgYBceW" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-Chibo-5865F2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Chibo-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <a href="https://www.adrianosor.io" target="_blank">
