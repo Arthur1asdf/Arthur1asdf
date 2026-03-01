@@ -62,6 +62,13 @@ I enjoy building things that improve the quality of life and make people’s liv
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1asdf&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1asdf&layout=compact&theme=transparent)
+<a href="https://github.com/Arthur1asdf">
+  <img
+    alt="Arthur Teng's Top Languages"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Arthur1asdf&langs_count=8&layout=compact&theme=react&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF"
+    height="192px"
+    width="49.5%"
+  />
+</a>
 [![](https://visitcount.itsvg.in/api?id=Arthur1asdf&icon=0&color=0)](https://visitcount.itsvg.in)
 
