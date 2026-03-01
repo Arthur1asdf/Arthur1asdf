@@ -1,6 +1,8 @@
 <!-- # Hey, I'm Arthur:-->
 
-
+<p align="center">
+  <img src="./pokemon.gif" alt="banner" width="100%" />
+</p>
 ## Connect with me:
 Feel free to reach out to chat about anything! You might also find me around campus.
 <p align="left">
