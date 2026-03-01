@@ -4,8 +4,8 @@
 </p>
 
 ## Connect with me:
-Feel free to reach out to chat about anything! You might also find me around campus.
-
+Hi, my name is Arthur Teng, I currently specialize in doing full-stack development, while also doing hardware and computer vision projects on the side.
+I enjoy building things that improve the quality of life and make people’s lives a little bit easier in this crazy world we live in. 
 <p align="left">
 <a href="https://www.linkedin.com/in/arthteng/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
