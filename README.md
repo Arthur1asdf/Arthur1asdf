@@ -1,10 +1,11 @@
 <!-- # Hey, I'm Arthur:-->
 
+
+## Connect with me:
+Feel free to reach out to chat about anything! You might also find me around campus.
 <p align="center">
   <img src="./pokemon.gif" alt="banner" width="100%" />
 </p>
-## Connect with me:
-Feel free to reach out to chat about anything! You might also find me around campus.
 <p align="left">
 <a href="https://www.linkedin.com/in/arthteng/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
