@@ -62,5 +62,6 @@ I enjoy building things that improve the quality of life and make people’s liv
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1asdf&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1asdf&layout=compact&theme=transparent)
 [![](https://visitcount.itsvg.in/api?id=Arthur1asdf&icon=0&color=0)](https://visitcount.itsvg.in)
 
