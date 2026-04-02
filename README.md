@@ -4,8 +4,7 @@
 </p>
 
 ## About me:
-Hi, my name is Arthur Teng, I currently specialize in doing full-stack development, while also doing hardware and computer vision projects on the side.
-I enjoy building things that improve the quality of life and make people’s lives a little bit easier in this crazy world we live in. 
+I’m a Computer Science major at UCF and a full-stack developer with a passion for building software that makes the world a little easier to navigate. I specialize in back-end architecture, but I love diving into hardware and computer vision to solve "Quality of Life" problems. I am a lifelong "tinkerer" who thrives on the challenge of the unknown. I’m always looking to learn, experiment, and expand my technical horizon.
 <p align="left">
 <a href="https://www.linkedin.com/in/arthteng/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Teng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
