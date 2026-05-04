@@ -61,6 +61,4 @@ Always tinkering, always learning, and always looking for ways to make things 1%
 ## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Arthur1asdf&theme=dracula&hide_border=false)</br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Arthur1asdf&icon=0&color=0)](https://visitcount.itsvg.in)
 
